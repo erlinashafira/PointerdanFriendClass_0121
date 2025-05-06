@@ -20,3 +20,12 @@ class Persegi_Panjang
     }
     //Lingkaran ol;
 };
+
+class Lingkaran
+{
+    public:
+    int jarijari;
+
+
+}
+ 
